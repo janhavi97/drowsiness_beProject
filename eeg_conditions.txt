@@ -1,0 +1,7 @@
+Cannot say:	2,6
+
+State of mind-deep sleep, when awake pathological
+0,1,3,4,7,8,9,10,12
+
+State of mind-creativity, falling asleep
+5,11
